@@ -1,0 +1,2198 @@
+[
+  {
+    "nome_cientifico": "Handroanthus spp.",
+    "nome_comercial": "Ipê",
+    "origem": "Amazônia, Mata Atlântica, Cerrado, Pantanal",
+    "arvore": "Árvore de grande porte, pode atingir até 30 m de altura e 90 cm de diâmetro. Tronco reto ou pouco tortuoso.",
+    "caracteristicas_gerais": "Cerne e alburno distintos pela cor, cerne pardo-acastanhado ou pardo-claro, com reflexos esverdeados. Anéis de crescimento distintos. Textura fina a média. Grã revessa.",
+    "secagem_em_estufa": "A secagem ao ar é lenta, com tendência a rachaduras e empenamentos. A secagem em estufa deve ser lenta e cuidadosa.",
+    "trabalhabilidade": "Madeira considerada difícil de ser trabalhada, principalmente com ferramentas manuais. Requer o uso de ferramentas de metal duro (widea). Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Hymenaea courbaril",
+    "nome_comercial": "Jatobá",
+    "origem": "Amazônia, Mata Atlântica, Cerrado",
+    "arvore": "Árvore de grande porte, atinge até 40 m de altura e 100 cm de diâmetro. Tronco reto e cilíndrico.",
+    "caracteristicas_gerais": "Cerne e alburno distintos, cerne castanho-avermelhado. Superfície lisa ao tato. Textura média. Grã regular a irregular.",
+    "secagem_em_estufa": "Secagem ao ar lenta, com pequena tendência a rachaduras. Secagem em estufa rápida, sem defeitos significativos.",
+    "trabalhabilidade": "Madeira moderadamente fácil de ser trabalhada. Recebe bom acabamento. Recomenda-se pré-furação para pregos."
+  },
+  {
+    "nome_cientifico": "Dipteryx odorata",
+    "nome_comercial": "Cumaru",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com altura de até 30 m e diâmetro de até 70 cm. Tronco reto e cilíndrico.",
+    "caracteristicas_gerais": "Cerne e alburno distintos, cerne castanho-claro-amarelado. Odor característico (cumarina). Textura média. Grã revessa.",
+    "secagem_em_estufa": "Secagem ao ar lenta, com tendência a empenamentos e rachaduras. A secagem em estufa deve ser controlada.",
+    "trabalhabilidade": "Madeira difícil de ser serrada. Apresenta bom acabamento, porém é difícil de ser colada. Requer pré-furação."
+  },
+  {
+    "nome_cientifico": "Manilkara huberi",
+    "nome_comercial": "Maçaranduba",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de grande porte, atingindo de 40 a 50 m de altura. Tronco cilíndrico com ritidoma (casca) de fissuras profundas e coloração marrom-acinzentada.",
+    "caracteristicas_gerais": "Madeira muito pesada, dura e resistente. Cerne vermelho-escuro. Textura fina e uniforme. Grã regular.",
+    "secagem_em_estufa": "A secagem deve ser lenta e controlada para evitar a ocorrência de rachaduras e empenamentos.",
+    "trabalhabilidade": "Madeira difícil de ser trabalhada devido à sua alta densidade. Requer ferramentas potentes e afiadas. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Aspidosperma peroba",
+    "nome_comercial": "Peroba-Rosa",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de grande porte, podendo atingir 40 m de altura. Tronco reto e cilíndrico, com casca acinzentada e fissurada.",
+    "caracteristicas_gerais": "Cerne de cor rosa-amarelado a avermelhado. Gosto amargo característico. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem ao ar lenta, com tendência a rachaduras. Secagem artificial deve ser cuidadosa para evitar defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar, tanto com ferramentas manuais quanto mecânicas. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Dinizia excelsa",
+    "nome_comercial": "Angelim-Vermelho",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, emergente, podendo atingir até 60 m de altura. Tronco reto e cilíndrico, com sapopemas altas.",
+    "caracteristicas_gerais": "Cerne castanho-avermelhado. Cheiro desagradável e gosto imperceptível. Densidade alta, dura ao corte. Textura média a grossa.",
+    "secagem_em_estufa": "Secagem rápida, com tendência moderada a torcimento e leve colapso. [9]",
+    "trabalhabilidade": "Difícil de serrar devido à alta densidade. Requer ferramentas potentes. Acabamento de regular a bom."
+  },
+  {
+    "nome_cientifico": "Apuleia leiocarpa",
+    "nome_comercial": "Garapa",
+    "origem": "Amazônia, Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio a grande, com tronco geralmente tortuoso. Altura comercial de cerca de 11 m.",
+    "caracteristicas_gerais": "Cerne variando de bege-amarelado a castanho-amarelado. Superfície lustrosa. Densidade média. Grã revessa.",
+    "secagem_em_estufa": "Difícil de secar ao ar. A secagem deve ser lenta e bem controlada para evitar alta incidência de defeitos. [4]",
+    "trabalhabilidade": "Fácil de ser trabalhada, desde que se usem ferramentas apropriadas. Cola bem e proporciona bom acabamento. [4, 10]"
+  },
+  {
+    "nome_cientifico": "Couratari spp.",
+    "nome_comercial": "Tauari",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto e cilíndrico.",
+    "caracteristicas_gerais": "Madeira leve a moderadamente densa. Cor do cerne branco-amarelado a bege. Textura média. Grã direita.",
+    "secagem_em_estufa": "Secagem rápida, com pouca tendência a defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar em todas as operações. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Cordia goeldiana",
+    "nome_comercial": "Freijó",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, com cerca de 20 a 25 m de altura. Tronco reto.",
+    "caracteristicas_gerais": "Cerne castanho-claro-amarelado, com veios escuros. Superfície lustrosa. Textura média. Grã ondulada ou revessa.",
+    "secagem_em_estufa": "Secagem muito fácil, tanto ao ar livre quanto em estufa, com baixa incidência de defeitos.",
+    "trabalhabilidade": "Fácil de aplainar, serrar, lixar e pregar. Proporciona excelente acabamento."
+  },
+  {
+    "nome_cientifico": "Cedrela odorata",
+    "nome_comercial": "Cedro",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de grande porte, podendo alcançar 35 m de altura. Tronco espesso e reto.",
+    "caracteristicas_gerais": "Cerne de cor rosada a castanho-avermelhado. Cheiro característico, agradável. Madeira leve. Textura grossa.",
+    "secagem_em_estufa": "Secagem muito rápida em estufa, com pequena tendência a colapso e torcimento.",
+    "trabalhabilidade": "Excelente para trabalhar. Fácil de cortar, aplainar e lixar, resultando em ótimo acabamento."
+  },
+  {
+    "nome_cientifico": "Parkia gigantocarpa",
+    "nome_comercial": "Goiabão",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, emergente, com sapopemas bem desenvolvidas.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara, amarelada. Textura grossa. Grã direita a irregular.",
+    "secagem_em_estufa": "Secagem rápida, mas com tendência a deformações e ataque de fungos manchadores.",
+    "trabalhabilidade": "Fácil de trabalhar, mas o acabamento pode ser prejudicado por fibras arrancadas."
+  },
+  {
+    "nome_cientifico": "Astronium fraxinifolium",
+    "nome_comercial": "Muiracatiara",
+    "origem": "Amazônia, Cerrado",
+    "arvore": "Árvore de porte médio a grande, atingindo até 30 m de altura.",
+    "caracteristicas_gerais": "Cerne com fundo amarelo-avermelhado e estrias escuras, de aspecto rajado. Densidade alta. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a rachaduras finas e empenamento.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar. Requer ferramentas afiadas para um bom acabamento."
+  },
+  {
+    "nome_cientifico": "Micropholis venulosa",
+    "nome_comercial": "Curupixá",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, com tronco geralmente reto.",
+    "caracteristicas_gerais": "Madeira de densidade média. Cor do cerne bege-rosado. Textura fina. Grã direita.",
+    "secagem_em_estufa": "Secagem moderadamente lenta, com tendência a empenamentos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Diplotropis purpurea",
+    "nome_comercial": "Sucupira-Preta",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto e casca grossa.",
+    "caracteristicas_gerais": "Cerne de cor chocolate-escuro com estrias mais claras. Madeira muito pesada e dura. Textura grossa. Grã irregular.",
+    "secagem_em_estufa": "Secagem lenta e difícil, com alta probabilidade de empenamentos e rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar. Exige ferramentas robustas. Acabamento de regular a bom."
+  },
+  {
+    "nome_cientifico": "Peltogyne spp.",
+    "nome_comercial": "Roxinho",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio a grande, com sapopemas na base.",
+    "caracteristicas_gerais": "Cerne de cor roxa intensa quando recém-cortado, tornando-se violeta-escuro com o tempo. Madeira pesada e dura. Textura média.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a empenamentos e rachaduras.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar. Requer ferramentas potentes. Excelente acabamento."
+  },
+  {
+    "nome_cientifico": "Erisma uncinatum",
+    "nome_comercial": "Cambará",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio a grande, com tronco reto.",
+    "caracteristicas_gerais": "Madeira leve, de cor rosada a avermelhada. Textura grossa. Grã direita a revessa.",
+    "secagem_em_estufa": "Secagem muito rápida, mas com forte tendência a colapso e deformações.",
+    "trabalhabilidade": "Fácil de trabalhar, mas pode apresentar superfície felpuda no lixamento."
+  },
+  {
+    "nome_cientifico": "Copaifera spp.",
+    "nome_comercial": "Copaíba",
+    "origem": "Amazônia, Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio a grande, conhecida pela produção de óleo-resina.",
+    "caracteristicas_gerais": "Cerne avermelhado. Densidade média. Textura média. Cheiro característico do óleo-resina.",
+    "secagem_em_estufa": "Secagem moderadamente fácil, com pequena tendência a defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar, mas a presença de óleo pode dificultar a colagem e o acabamento."
+  },
+  {
+    "nome_cientifico": "Euxylophora paraensis",
+    "nome_comercial": "Pau-Amarelo",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto e cilíndrico.",
+    "caracteristicas_gerais": "Cerne de cor amarelo-intenso. Superfície com alto brilho. Densidade alta. Textura média.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a rachaduras.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Pterogyne nitens",
+    "nome_comercial": "Amendoim",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio, com tronco geralmente tortuoso.",
+    "caracteristicas_gerais": "Cerne de cor amarelo-claro a castanho-amarelado-rosado. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem fácil, com pouca ocorrência de defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar, resultando em bom acabamento."
+  },
+  {
+    "nome_cientifico": "Ocotea odorifera",
+    "nome_comercial": "Canela-Sassafrás",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de porte médio, ameaçada de extinção.",
+    "caracteristicas_gerais": "Madeira moderadamente pesada. Cerne de cor parda-olivácea. Odor forte e característico de sassafrás. Textura média.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a rachaduras e empenamentos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Hymenolobium petraeum",
+    "nome_comercial": "Angelim-Pedra",
+    "origem": "Amazônia, Cerrado",
+    "arvore": "Árvore de grande porte, com sapopemas na base.",
+    "caracteristicas_gerais": "Cerne castanho-amarelado a castanho-avermelhado. Madeira pesada. Textura grossa. Cheiro desagradável quando úmida.",
+    "secagem_em_estufa": "Secagem difícil, com alta tendência a colapso, empenamento e rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar. Requer ferramentas potentes. Acabamento ruim."
+  },
+  {
+    "nome_cientifico": "Schizolobium amazonicum",
+    "nome_comercial": "Paricá",
+    "origem": "Amazônia",
+    "arvore": "Árvore de crescimento muito rápido, atingindo grande porte.",
+    "caracteristicas_gerais": "Madeira muito leve, de cor branca-amarelada. Textura grossa. Grã direita.",
+    "secagem_em_estufa": "Secagem extremamente rápida, mas com forte tendência a colapso e deformações.",
+    "trabalhabilidade": "Muito fácil de trabalhar, mas de acabamento ruim devido à baixa densidade."
+  },
+  {
+    "nome_cientifico": "Bowdichia virgilioides",
+    "nome_comercial": "Sucupira-Amarela",
+    "origem": "Cerrado, Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio, comum no Cerrado.",
+    "caracteristicas_gerais": "Cerne de cor castanho com listras mais escuras. Madeira pesada e dura. Textura grossa. Grã irregular.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a empenamentos.",
+    "trabalhabilidade": "Difícil de trabalhar. Requer o uso de ferramentas com pastilhas de metal duro."
+  },
+  {
+    "nome_cientifico": "Bagassa guianensis",
+    "nome_comercial": "Tatajuba",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto e presença de sapopemas.",
+    "caracteristicas_gerais": "Cerne de cor amarelo-limão, tornando-se castanho-dourado com o tempo. Madeira pesada. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem moderadamente lenta, com leve tendência a empenamentos e rachaduras.",
+    "trabalhabilidade": "Moderadamente fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Swietenia macrophylla",
+    "nome_comercial": "Mogno",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto e sapopemas bem desenvolvidas. Espécie ameaçada.",
+    "caracteristicas_gerais": "Cerne de cor castanho-avermelhado. Brilho elevado. Densidade média. Textura média. Grã direita a irregular.",
+    "secagem_em_estufa": "Secagem fácil, tanto ao ar quanto em estufa, com poucos defeitos.",
+    "trabalhabilidade": "Excelente trabalhabilidade em todas as operações. Considerada uma das melhores madeiras para móveis finos."
+  },
+  {
+    "nome_cientifico": "Libidibia ferrea",
+    "nome_comercial": "Pau-Ferro",
+    "origem": "Mata Atlântica, Cerrado, Caatinga",
+    "arvore": "Árvore de porte médio a grande, com casca lisa e clara que se desprende em placas.",
+    "caracteristicas_gerais": "Cerne muito variável, de castanho-escuro a avermelhado, com veios mais escuros. Madeira muito pesada e dura. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar devido à sua dureza. Excelente acabamento."
+  },
+  {
+    "nome_cientifico": "Nectandra rubra",
+    "nome_comercial": "Louro-Preto",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio a grande.",
+    "caracteristicas_gerais": "Cerne de cor parda a enegrecida. Densidade média. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem moderadamente fácil, com poucos defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Balfourodendron riedelianum",
+    "nome_comercial": "Pau-Marfim",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de grande porte, com tronco reto e cilíndrico.",
+    "caracteristicas_gerais": "Cerne e alburno praticamente indistintos, de cor branco-palha a amarelado. Textura fina e uniforme. Grã direita.",
+    "secagem_em_estufa": "Secagem moderadamente difícil, com tendência a rachaduras e manchas se não for bem conduzida.",
+    "trabalhabilidade": "Fácil de trabalhar. Excelente para tornear. Acabamento liso e de alta qualidade."
+  },
+  {
+    "nome_cientifico": "Qualea paraensis",
+    "nome_comercial": "Mandioqueira",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Densidade média. Textura média a grossa. Grã revessa.",
+    "secagem_em_estufa": "Secagem moderadamente rápida, com tendência a empenamentos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Enterolobium contortisiliquum",
+    "nome_comercial": "Timborana",
+    "origem": "Amazônia, Mata Atlântica, Cerrado, Caatinga",
+    "arvore": "Árvore de grande porte, com copa ampla e achatada, conhecida como 'orelha-de-negro'.",
+    "caracteristicas_gerais": "Cerne de cor castanho-claro a pardo-avermelhado. Madeira leve a moderadamente densa. Textura grossa.",
+    "secagem_em_estufa": "Secagem rápida, com poucos defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Acabamento de regular a bom."
+  },
+  {
+    "nome_cientifico": "Jacaranda copaia",
+    "nome_comercial": "Guajará",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio a grande, com tronco reto.",
+    "caracteristicas_gerais": "Madeira leve, de cor branca-amarelada. Textura média a grossa. Grã direita.",
+    "secagem_em_estufa": "Secagem muito rápida, com risco de manchamento por fungos.",
+    "trabalhabilidade": "Muito fácil de trabalhar. Acabamento regular."
+  },
+  {
+    "nome_cientifico": "Bertholletia excelsa",
+    "nome_comercial": "Castanheira",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte monumental, uma das maiores da Amazônia, famosa pela castanha-do-pará.",
+    "caracteristicas_gerais": "Cerne de cor castanho-claro levemente rosado. Densidade média. Textura média. Grã direita.",
+    "secagem_em_estufa": "Secagem moderadamente fácil, com poucos defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Cariniana legalis",
+    "nome_comercial": "Jequitibá-Rosa",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de dimensões gigantescas, um dos símbolos da Mata Atlântica.",
+    "caracteristicas_gerais": "Cerne de cor rosada a castanho-avermelhado-claro. Madeira leve. Textura média. Grã direita a irregular.",
+    "secagem_em_estufa": "Secagem fácil e rápida, com baixa incidência de defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Paubrasilia echinata",
+    "nome_comercial": "Pau-Brasil",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de porte médio, com tronco espinhoso. Símbolo nacional do Brasil.",
+    "caracteristicas_gerais": "Cerne de cor laranja-avermelhado intenso, que produz um corante vermelho. Madeira muito pesada e dura. Textura fina.",
+    "secagem_em_estufa": "Secagem muito lenta e difícil, com alta tendência a rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar. Usada principalmente para arcos de violino."
+  },
+  {
+    "nome_cientifico": "Paratecoma peroba",
+    "nome_comercial": "Peroba-Branca",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Densidade média. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Nectandra falcifolia",
+    "nome_comercial": "Louro-Vermelho",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Spondias mombin",
+    "nome_comercial": "Cajazeiro",
+    "origem": "Amazônia, Mata Atlântica, Cerrado, Caatinga",
+    "arvore": "Árvore de porte médio, conhecida por seus frutos (cajá).",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa durabilidade. Textura grossa.",
+    "secagem_em_estufa": "Secagem rápida, mas suscetível a manchas e ataque de insetos.",
+    "trabalhabilidade": "Muito fácil de trabalhar, mas de qualidade inferior."
+  },
+  {
+    "nome_cientifico": "Araucaria angustifolia",
+    "nome_comercial": "Pinho-do-Paraná",
+    "origem": "Mata Atlântica, Campos Sulinos",
+    "arvore": "Conífera de grande porte, com copa característica em forma de candelabro. Símbolo do estado do Paraná.",
+    "caracteristicas_gerais": "Madeira leve, de cor branco-amarelada, sem distinção entre cerne e alburno. Textura fina e uniforme. Grã direita.",
+    "secagem_em_estufa": "Secagem fácil, com pouca tendência a defeitos.",
+    "trabalhabilidade": "Muito fácil de trabalhar em todas as operações. Excelente acabamento."
+  },
+  {
+    "nome_cientifico": "Simarouba amara",
+    "nome_comercial": "Marupá",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio a grande, com tronco reto.",
+    "caracteristicas_gerais": "Madeira muito leve, de cor branca-amarelada. Textura média. Grã direita.",
+    "secagem_em_estufa": "Secagem muito rápida, mas com alto risco de manchamento por fungos.",
+    "trabalhabilidade": "Extremamente fácil de trabalhar. Acabamento de regular a bom."
+  },
+  {
+    "nome_cientifico": "Vatairea paraensis",
+    "nome_comercial": "Angelim-Amargoso",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne amarelado a acastanhado. Gosto amargo. Densidade média. Textura grossa.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Vouacapoua americana",
+    "nome_comercial": "Acapu",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor parda-escura, com veios mais escuros. Madeira muito pesada e dura. Alta durabilidade.",
+    "secagem_em_estufa": "Secagem lenta e difícil, com alta tendência a rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar. Requer ferramentas potentes."
+  },
+  {
+    "nome_cientifico": "Parkia multijuga",
+    "nome_comercial": "Angelim-Saia",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Carapa guianensis",
+    "nome_comercial": "Andiroba",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio a grande, famosa pelo óleo de suas sementes.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada a marrom-avermelhado. Densidade média. Textura média. Grã direita a irregular.",
+    "secagem_em_estufa": "Secagem moderadamente fácil, com tendência a empenamentos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Peltophorum dubium",
+    "nome_comercial": "Canafístula",
+    "origem": "Mata Atlântica, Cerrado, Pantanal",
+    "arvore": "Árvore de grande porte, com floração amarela exuberante.",
+    "caracteristicas_gerais": "Cerne de cor clara, levemente rosado. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem fácil, sem grandes defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Anadenanthera colubrina",
+    "nome_comercial": "Angico-Preto",
+    "origem": "Cerrado, Caatinga, Mata Atlântica",
+    "arvore": "Árvore de porte médio, com casca escura e rugosa.",
+    "caracteristicas_gerais": "Cerne de cor castanho-avermelhado-escuro. Madeira pesada e dura. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem lenta e difícil, com tendência a rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Astronium fraxinifolium",
+    "nome_comercial": "Gonçalo-Alves",
+    "origem": "Cerrado, Mata Atlântica, Amazônia",
+    "arvore": "Árvore de porte médio a grande, também conhecida como Muiracatiara.",
+    "caracteristicas_gerais": "Cerne com fundo amarelo-avermelhado e estrias escuras, de aspecto rajado. Densidade alta. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a rachaduras finas e empenamento.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar. Requer ferramentas afiadas para um bom acabamento."
+  },
+  {
+    "nome_cientifico": "Aspidosperma macrocarpon",
+    "nome_comercial": "Peroba-Mica",
+    "origem": "Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne amarelado. Densidade média. Textura fina.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Cariniana legalis",
+    "nome_comercial": "Jequitibá-Branco",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de dimensões gigantescas, similar ao Jequitibá-Rosa.",
+    "caracteristicas_gerais": "Cerne de cor clara, branco-amarelado. Madeira leve. Textura média. Grã direita.",
+    "secagem_em_estufa": "Secagem fácil e rápida, com baixa incidência de defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Cordia alliodora",
+    "nome_comercial": "Louro-Faia",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor parda, com faixas escuras, lembrando a faia europeia. Densidade média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Centrolobium robustum",
+    "nome_comercial": "Pau-Rainha",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Moderadamente fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Calycophyllum spruceanum",
+    "nome_comercial": "Pau-Mulato",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, com casca lisa que se desprende, revelando um tronco de cor esverdeada a acobreada.",
+    "caracteristicas_gerais": "Madeira pesada e dura. Cerne de cor parda-clara. Textura fina. Grã irregular.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Kielmeyera coriacea",
+    "nome_comercial": "Pau-Santo",
+    "origem": "Cerrado",
+    "arvore": "Árvore de pequeno a médio porte, com casca grossa e suberosa (cortiça).",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa resistência.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Aniba rosaeodora",
+    "nome_comercial": "Pau-Rosa",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, ameaçada de extinção, famosa pela extração de óleo essencial (linalol).",
+    "caracteristicas_gerais": "Cerne de cor rósea a amarelada. Odor de rosas, característico. Densidade média.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Platonia insignis",
+    "nome_comercial": "Bacuri",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de grande porte, conhecida por seus frutos comestíveis.",
+    "caracteristicas_gerais": "Cerne de cor amarelada a acastanhada. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Piptadenia gonoacantha",
+    "nome_comercial": "Pau-Jacaré",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de porte médio a grande, com tronco coberto de acúleos (espinhos) quando jovem.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Dalbergia nigra",
+    "nome_comercial": "Jacarandá-da-Bahia",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de porte médio, extremamente valorizada e ameaçada de extinção.",
+    "caracteristicas_gerais": "Cerne de cor chocolate a violeta, com veios escuros. Madeira pesada. Odor característico. Textura média.",
+    "secagem_em_estufa": "Secagem lenta e cuidadosa para evitar defeitos.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar, mas proporciona acabamento excepcional."
+  },
+  {
+    "nome_cientifico": "Anadenanthera macrocarpa",
+    "nome_comercial": "Angico-Branco",
+    "origem": "Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio, similar ao Angico-Preto.",
+    "caracteristicas_gerais": "Cerne de cor castanho-avermelhado. Madeira pesada e dura. Textura média.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Esenbeckia leiocarpa",
+    "nome_comercial": "Guaranta",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira muito pesada e dura. Cerne de cor amarelada. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Muito difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Cariniana estrellensis",
+    "nome_comercial": "Jequitibá-Vermelho",
+    "origem": "Mata Atlântica, Amazônia",
+    "arvore": "Árvore de grande porte, similar ao Jequitibá-Rosa.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Madeira leve. Textura média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Vatairea guianensis",
+    "nome_comercial": "Amargoso",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne amarelado a acastanhado. Gosto amargo. Densidade média. Textura grossa.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Ocotea porosa",
+    "nome_comercial": "Embuia",
+    "origem": "Mata Atlântica (Sul do Brasil)",
+    "arvore": "Árvore de grande porte, com copa densa. Espécie ameaçada.",
+    "caracteristicas_gerais": "Cerne de cor parda, com veios escuros. Odor agradável e característico. Densidade média. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta, necessita de um programa suave para evitar defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Excelente acabamento."
+  },
+  {
+    "nome_cientifico": "Myrocarpus frondosus",
+    "nome_comercial": "Cabreuva-Vermelha",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor castanho-avermelhado. Odor agradável (bálsamo). Madeira pesada e dura. Textura fina a média.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a empenamentos.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Caryocar villosum",
+    "nome_comercial": "Pequiá",
+    "origem": "Amazônia, Cerrado",
+    "arvore": "Árvore de grande porte, parente do Pequi.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Madeira pesada e dura. Textura grossa. Grã revessa.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Tabebuia cassinoides",
+    "nome_comercial": "Caxeta",
+    "origem": "Mata Atlântica (regiões costeiras)",
+    "arvore": "Árvore de porte médio, típica de áreas alagadiças (restinga).",
+    "caracteristicas_gerais": "Madeira muito leve e macia. Cor branca-creme. Textura fina.",
+    "secagem_em_estufa": "Secagem rápida e fácil.",
+    "trabalhabilidade": "Extremamente fácil de trabalhar, excelente para entalhes."
+  },
+  {
+    "nome_cientifico": "Mezilaurus itauba",
+    "nome_comercial": "Itaúba",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor amarelo-esverdeado, escurecendo para castanho-escuro. Madeira pesada, dura e com alta durabilidade natural. Leve odor agradável.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a empenamentos e rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar. Requer ferramentas potentes."
+  },
+  {
+    "nome_cientifico": "Pterodon emarginatus",
+    "nome_comercial": "Sucupira-Branca",
+    "origem": "Cerrado",
+    "arvore": "Árvore de porte médio, com casca grossa.",
+    "caracteristicas_gerais": "Cerne de cor clara. Madeira de densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Myracrodruon urundeuva",
+    "nome_comercial": "Aroeira",
+    "origem": "Cerrado, Caatinga, Pantanal, Mata Atlântica",
+    "arvore": "Árvore de porte médio, com casca rugosa.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Madeira extremamente pesada, dura e de altíssima durabilidade.",
+    "secagem_em_estufa": "Extremamente difícil de secar, com altíssima tendência a rachaduras e deformações.",
+    "trabalhabilidade": "Extremamente difícil de trabalhar. Usada principalmente para postes e mourões."
+  },
+  {
+    "nome_cientifico": "Stryphnodendron adstringens",
+    "nome_comercial": "Barbatimão",
+    "origem": "Cerrado",
+    "arvore": "Árvore de pequeno a médio porte, com casca grossa e rica em taninos.",
+    "caracteristicas_gerais": "Cerne avermelhado. Madeira pesada e dura.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Torresea acreana",
+    "nome_comercial": "Cerejeira",
+    "origem": "Amazônia, Caatinga, Cerrado",
+    "arvore": "Árvore de porte médio a grande.",
+    "caracteristicas_gerais": "Cerne de cor castanho-amarelado a avermelhado. Odor agradável. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem fácil, com poucos defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Excelente acabamento."
+  },
+  {
+    "nome_cientifico": "Anadenanthera colubrina",
+    "nome_comercial": "Curupau",
+    "origem": "Cerrado, Mata Atlântica, Pantanal, Caatinga",
+    "arvore": "Árvore de porte médio, com casca escura e rugosa.",
+    "caracteristicas_gerais": "Cerne de cor castanho-avermelhado-escuro. Madeira pesada e dura. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem lenta e difícil, com tendência a rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Dalbergia decipularis",
+    "nome_comercial": "Muirapinima",
+    "origem": "Amazônia",
+    "arvore": "Árvore de pequeno porte.",
+    "caracteristicas_gerais": "Cerne de cor rosa com listras vermelhas. Madeira pesada. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Moderadamente fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Amburana cearensis",
+    "nome_comercial": "Amburana",
+    "origem": "Caatinga, Cerrado, Amazônia",
+    "arvore": "Árvore de porte médio, com casca lisa que se desprende.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Odor forte e agradável (cumarina). Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem fácil e rápida.",
+    "trabalhabilidade": "Fácil de trabalhar. Excelente acabamento."
+  },
+  {
+    "nome_cientifico": "Dinizia excelsa",
+    "nome_comercial": "Angelim-Ferro",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, emergente, podendo atingir até 60 m de altura. Tronco reto e cilíndrico, com sapopemas altas.",
+    "caracteristicas_gerais": "Cerne castanho-avermelhado. Cheiro desagradável e gosto imperceptível. Densidade alta, dura ao corte. Textura média a grossa.",
+    "secagem_em_estufa": "Secagem rápida, com tendência moderada a torcimento e leve colapso.",
+    "trabalhabilidade": "Difícil de serrar devido à alta densidade. Requer ferramentas potentes. Acabamento de regular a bom."
+  },
+  {
+    "nome_cientifico": "Parkia multijuga",
+    "nome_comercial": "Faveira",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Nectandra spp.",
+    "nome_comercial": "Louro-Canela",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Grupo de árvores de porte médio a grande.",
+    "caracteristicas_gerais": "Cor do cerne variável, geralmente parda. Densidade média. Odor de canela em algumas espécies.",
+    "secagem_em_estufa": "Secagem geralmente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Maquira sclerophylla",
+    "nome_comercial": "Muiratinga",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira leve, de cor amarelada. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida, com risco de manchas.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Vochysia spp.",
+    "nome_comercial": "Quaruba",
+    "origem": "Amazônia",
+    "arvore": "Grupo de árvores de porte médio a grande.",
+    "caracteristicas_gerais": "Madeira leve a moderadamente densa. Cor rosada a avermelhada. Textura grossa.",
+    "secagem_em_estufa": "Secagem rápida, com tendência a colapso e empenamento.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Parkia pendula",
+    "nome_comercial": "Visgueiro",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com copa em formato de guarda-chuva.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Densidade média. Textura grossa.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Clarisia racemosa",
+    "nome_comercial": "Guariúba",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor amarela. Madeira pesada e dura. Textura média.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a defeitos.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Tapirira guianensis",
+    "nome_comercial": "Pau-Pombo",
+    "origem": "Amazônia, Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Aspidosperma subincanum",
+    "nome_comercial": "Guatambu",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio a grande.",
+    "caracteristicas_gerais": "Cerne de cor branco-amarelado. Madeira pesada e dura. Textura fina.",
+    "secagem_em_estufa": "Secagem moderadamente difícil.",
+    "trabalhabilidade": "Fácil de trabalhar, excelente para artigos esportivos e cabos de ferramentas."
+  },
+  {
+    "nome_cientifico": "Caryocar villosum",
+    "nome_comercial": "Piquiarana",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, parente do Pequiá.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Madeira pesada e dura. Textura grossa. Grã revessa.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pterodon pubescens",
+    "nome_comercial": "Sucupira-Verdadeira",
+    "origem": "Cerrado",
+    "arvore": "Árvore de porte médio, típica do Cerrado.",
+    "caracteristicas_gerais": "Cerne de cor parda com veios escuros. Madeira pesada. Textura grossa.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Peltophorum dubium",
+    "nome_comercial": "Canafístula-Verdadeira",
+    "origem": "Mata Atlântica, Cerrado, Pantanal",
+    "arvore": "Árvore de grande porte, com floração amarela exuberante.",
+    "caracteristicas_gerais": "Cerne de cor clara, levemente rosado. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem fácil, sem grandes defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Patagonula americana",
+    "nome_comercial": "Guajuvira",
+    "origem": "Sul do Brasil",
+    "arvore": "Árvore de porte médio, com tronco canelado.",
+    "caracteristicas_gerais": "Cerne irregular, de cor parda com listras escuras. Madeira muito pesada e dura. Textura média.",
+    "secagem_em_estufa": "Secagem muito difícil, com alta tendência a rachaduras.",
+    "trabalhabilidade": "Muito difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Clarisia racemosa",
+    "nome_comercial": "Oiticica",
+    "origem": "Nordeste, Mata Atlântica",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor amarela. Madeira pesada e dura. Textura média.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a defeitos.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Handroanthus impetiginosus",
+    "nome_comercial": "Ipê-Roxo-da-Terra",
+    "origem": "Amazônia, Cerrado, Mata Atlântica",
+    "arvore": "Árvore de grande porte, famosa pela sua floração roxa.",
+    "caracteristicas_gerais": "Cerne de cor parda-olivácea a parda-escura. Madeira muito pesada e dura. Textura fina a média.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a empenamentos.",
+    "trabalhabilidade": "Difícil de trabalhar. Requer ferramentas de metal duro."
+  },
+  {
+    "nome_cientifico": "Handroanthus serratifolius",
+    "nome_comercial": "Ipê-Amarelo-do-Cerrado",
+    "origem": "Cerrado, Amazônia",
+    "arvore": "Árvore de grande porte, com floração amarela intensa.",
+    "caracteristicas_gerais": "Cerne de cor parda-olivácea. Madeira muito pesada e dura. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a empenamentos.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Hymenaea rubriflora",
+    "nome_comercial": "Jatobá-da-Mata",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor vermelho-arroxeado. Madeira pesada e dura.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Tapirira guianensis",
+    "nome_comercial": "Cupuí",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Centrolobium robustum",
+    "nome_comercial": "Maracatiara-Vermelha",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada com veios escuros. Densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Moderadamente fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Diplotropis purpurea",
+    "nome_comercial": "Sucupira-Branca-da-Amazônia",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor parda-clara. Madeira pesada. Textura grossa.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Vatairea guianensis",
+    "nome_comercial": "Angelim-Cremoso",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne amarelado a acastanhado. Gosto amargo. Densidade média. Textura grossa.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Centrolobium tomentosum",
+    "nome_comercial": "Pau-Setim",
+    "origem": "Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor amarela com reflexos dourados. Superfície com alto brilho. Densidade média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar. Excelente acabamento."
+  },
+  {
+    "nome_cientifico": "Paratecoma peroba",
+    "nome_comercial": "Peroba-do-Campo",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Densidade média. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Cordia trichotoma",
+    "nome_comercial": "Freijó-do-Cerrado",
+    "origem": "Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne castanho-claro-amarelado. Similar ao Freijó amazônico. Textura média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Cordia goeldiana",
+    "nome_comercial": "Louro-Pardo",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, com cerca de 20 a 25 m de altura. Tronco reto.",
+    "caracteristicas_gerais": "Cerne castanho-claro-amarelado, com veios escuros. Superfície lustrosa. Textura média. Grã ondulada ou revessa.",
+    "secagem_em_estufa": "Secagem muito fácil, tanto ao ar livre quanto em estufa, com baixa incidência de defeitos.",
+    "trabalhabilidade": "Fácil de aplainar, serrar, lixar e pregar. Proporciona excelente acabamento."
+  },
+  {
+    "nome_cientifico": "Aniba rosaeodora",
+    "nome_comercial": "Pau-Rosa-do-Amazonas",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, ameaçada de extinção, famosa pela extração de óleo essencial (linalol).",
+    "caracteristicas_gerais": "Cerne de cor rósea a amarelada. Odor de rosas, característico. Densidade média.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Cabralea canjerana",
+    "nome_comercial": "Canjerana",
+    "origem": "Mata Atlântica, Amazônia, Cerrado",
+    "arvore": "Árvore de porte médio a grande.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Madeira moderadamente pesada. Textura média.",
+    "secagem_em_estufa": "Secagem moderadamente difícil, com tendência a empenamentos.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Ocotea pretiosa",
+    "nome_comercial": "Canela-Preta",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor parda-escura a quase preta. Odor agradável. Madeira pesada.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Luehea divaricata",
+    "nome_comercial": "Açoita-cavalo",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio, com tronco canelado.",
+    "caracteristicas_gerais": "Cerne de cor rosada a avermelhada. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Aspidosperma nitidum",
+    "nome_comercial": "Amarelão",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor amarela. Madeira pesada. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Vatairea guianensis",
+    "nome_comercial": "Angelim-Araribá",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne amarelado a acastanhado. Gosto amargo. Densidade média. Textura grossa.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Centrolobium robustum",
+    "nome_comercial": "Araribá",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada com veios. Densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Moderadamente fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Amaioua guianensis",
+    "nome_comercial": "Balaústre",
+    "origem": "Amazônia",
+    "arvore": "Árvore de pequeno a médio porte.",
+    "caracteristicas_gerais": "Madeira de cor clara. Densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Protium hebetatum",
+    "nome_comercial": "Breu",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Grupo de árvores de porte médio, produtoras de resina aromática.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Parkia multijuga",
+    "nome_comercial": "Caboré",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Anacardium occidentale",
+    "nome_comercial": "Caju",
+    "origem": "Nordeste, Amazônia",
+    "arvore": "Árvore de pequeno a médio porte, tortuosa, famosa pelo fruto e castanha.",
+    "caracteristicas_gerais": "Madeira leve a moderadamente densa. Cerne avermelhado. Textura média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Platonia insignis",
+    "nome_comercial": "Castelo",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, conhecida por seus frutos comestíveis (Bacuri).",
+    "caracteristicas_gerais": "Cerne de cor amarelada a acastanhada. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Nectandra rubra",
+    "nome_comercial": "Canelão",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio a grande.",
+    "caracteristicas_gerais": "Cerne de cor parda a enegrecida. Densidade média. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem moderadamente fácil, com poucos defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Roupala montana",
+    "nome_comercial": "Carvalho-Nacional",
+    "origem": "Amazônia, Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor parda-avermelhada, com raios largos que formam figura vistosa. Densidade média.",
+    "secagem_em_estufa": "Secagem moderadamente difícil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Calophyllum brasiliense",
+    "nome_comercial": "Catanho",
+    "origem": "Amazônia, Mata Atlântica, Pantanal",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada a parda. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Sloanea grandiflora",
+    "nome_comercial": "Conduru",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira pesada, de cor avermelhada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Informação não disponível."
+  },
+  {
+    "nome_cientifico": "Symphonia globulifera",
+    "nome_comercial": "Currupi",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, com raízes de suporte (sapopemas).",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Densidade média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Terminalia paraensis",
+    "nome_comercial": "Guarabu",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Madeira pesada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Moderadamente fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Inga cinnamomea",
+    "nome_comercial": "Ingá-Cipó",
+    "origem": "Amazônia, Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio, do gênero dos Ingás.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Nectandra rodiei",
+    "nome_comercial": "Louro-Abacate",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor parda-esverdeada. Madeira pesada e muito durável.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Bactris gasipaes",
+    "nome_comercial": "Marajá",
+    "origem": "Amazônia",
+    "arvore": "Palmeira de porte médio, com múltiplos estipes (troncos) espinhentos, conhecida como Pupunha.",
+    "caracteristicas_gerais": "Não é uma madeira típica. O material lenhoso consiste em um estipe fibroso com feixes vasculares escuros e densos sobre um fundo mais claro e macio.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Difícil de trabalhar devido à diferença de dureza entre as fibras e o parênquima. Desgasta ferramentas."
+  },
+  {
+    "nome_cientifico": "Apeiba tibourbou",
+    "nome_comercial": "Pau-Jangada",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, com frutos espinhosos.",
+    "caracteristicas_gerais": "Madeira extremamente leve e macia, similar à balsa. Cor clara.",
+    "secagem_em_estufa": "Secagem muito rápida.",
+    "trabalhabilidade": "Extremamente fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pithecellobium hymenaeifolium",
+    "nome_comercial": "Pente-de-Macaco",
+    "origem": "Amazônia, Mata Atlântica, Caatinga, Cerrado",
+    "arvore": "Árvore de porte médio, com vagens em formato de espiral.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor avermelhada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Oenocarpus bacaba",
+    "nome_comercial": "Bacaba",
+    "origem": "Amazônia",
+    "arvore": "Palmeira de estipe único, alta e elegante.",
+    "caracteristicas_gerais": "Material lenhoso de palmeira, com fibras escuras e densas em uma matriz mais clara.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Difícil de trabalhar, similar a outras palmeiras."
+  },
+  {
+    "nome_cientifico": "Erythrina mulungu",
+    "nome_comercial": "Mulungu",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio, com flores vermelhas e tronco espinhoso.",
+    "caracteristicas_gerais": "Madeira muito leve e macia, de cor clara.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Muito fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Centrolobium robustum",
+    "nome_comercial": "Cutia",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Moderadamente fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Joannesia princeps",
+    "nome_comercial": "Andá-Açu",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Apuleia molaris",
+    "nome_comercial": "Muiraúna",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio a grande.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Madeira pesada.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Schizolobium parahyba",
+    "nome_comercial": "Guapiruvu",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de crescimento muito rápido, com copa em formato de umbela.",
+    "caracteristicas_gerais": "Madeira muito leve, de cor clara. Baixa resistência.",
+    "secagem_em_estufa": "Secagem rápida, com risco de colapso.",
+    "trabalhabilidade": "Muito fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Senna macranthera",
+    "nome_comercial": "Pau-Cigarra",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de pequeno porte, com floração amarela.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor clara.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Nectandra elaiophora",
+    "nome_comercial": "Louro-Gama",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor parda. Densidade média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Licania tomentosa",
+    "nome_comercial": "Oiti",
+    "origem": "Mata Atlântica, Caatinga",
+    "arvore": "Árvore de porte médio, muito usada em arborização urbana.",
+    "caracteristicas_gerais": "Madeira pesada e dura. Cerne de cor avermelhada.",
+    "secagem_em_estufa": "Secagem difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Albizia niopoides",
+    "nome_comercial": "Pau-Seda",
+    "origem": "Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara e lustrosa.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Caryocar brasiliense",
+    "nome_comercial": "Pequi",
+    "origem": "Cerrado",
+    "arvore": "Árvore de porte médio, tortuosa, símbolo do Cerrado, famosa por seu fruto.",
+    "caracteristicas_gerais": "Madeira pesada e dura. Cerne amarelado.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Clitoria fairchildiana",
+    "nome_comercial": "Guarucaia",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de porte médio, com flores azuladas.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor clara.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Qualea grandiflora",
+    "nome_comercial": "Pau-Terra",
+    "origem": "Cerrado",
+    "arvore": "Árvore de porte médio, com casca suberosa.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Croton floribundus",
+    "nome_comercial": "Capixingui",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore pioneira, de porte médio.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Lafoensia pacari",
+    "nome_comercial": "Mirindiba",
+    "origem": "Cerrado",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor amarelada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Daphnopsis brasiliensis",
+    "nome_comercial": "Embira",
+    "origem": "Mata Atlântica",
+    "arvore": "Arbusto ou árvore de pequeno porte.",
+    "caracteristicas_gerais": "Madeira leve, usada principalmente para cordoaria rústica.",
+    "secagem_em_estufa": "Não aplicável.",
+    "trabalhabilidade": "Não aplicável para serraria."
+  },
+  {
+    "nome_cientifico": "Triplaris surinamensis",
+    "nome_comercial": "Pau-Formiga",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, com tronco oco habitado por formigas.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Dipteryx punctata",
+    "nome_comercial": "Capão",
+    "origem": "Amazônia, Cerrado",
+    "arvore": "Árvore de grande porte, similar ao Cumaru.",
+    "caracteristicas_gerais": "Cerne de cor castanha. Madeira pesada e dura.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pilocarpus pauciflorus",
+    "nome_comercial": "Pau-Branco",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira de cor clara, densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Lecythis pisonis",
+    "nome_comercial": "Jarana",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com frutos grandes e lenhosos (urnas).",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Madeira muito pesada e dura.",
+    "secagem_em_estufa": "Secagem muito difícil, com alta tendência a defeitos.",
+    "trabalhabilidade": "Muito difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pouteria caimito",
+    "nome_comercial": "Abiu",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, conhecida por seus frutos doces.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Madeira pesada e dura. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Eperua falcata",
+    "nome_comercial": "Babatan",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne avermelhado. Madeira pesada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Informação não disponível."
+  },
+  {
+    "nome_cientifico": "Erisma uncinatum",
+    "nome_comercial": "Cambaranduba",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio a grande, com tronco reto.",
+    "caracteristicas_gerais": "Madeira leve, de cor rosada a avermelhada. Textura grossa. Grã direita a revessa.",
+    "secagem_em_estufa": "Secagem muito rápida, mas com forte tendência a colapso e deformações.",
+    "trabalhabilidade": "Fácil de trabalhar, mas pode apresentar superfície felpuda no lixamento."
+  },
+  {
+    "nome_cientifico": "Apuleia ferrea",
+    "nome_comercial": "Casca-Grossa",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne amarelado. Madeira pesada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Informação não disponível."
+  },
+  {
+    "nome_cientifico": "Dinizia excelsa",
+    "nome_comercial": "Coracauá",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, emergente, podendo atingir até 60 m de altura. Tronco reto e cilíndrico, com sapopemas altas.",
+    "caracteristicas_gerais": "Cerne castanho-avermelhado. Cheiro desagradável e gosto imperceptível. Densidade alta, dura ao corte. Textura média a grossa.",
+    "secagem_em_estufa": "Secagem rápida, com tendência moderada a torcimento e leve colapso.",
+    "trabalhabilidade": "Difícil de serrar devido à alta densidade. Requer ferramentas potentes. Acabamento de regular a bom."
+  },
+  {
+    "nome_cientifico": "Vochysia maxima",
+    "nome_comercial": "Cururu",
+    "origem": "Amazônia, Cerrado",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor rosada.",
+    "secagem_em_estufa": "Secagem rápida com risco de defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pterocarpus officinalis",
+    "nome_comercial": "Dadap",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, de áreas alagadas.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pseudobombax munguba",
+    "nome_comercial": "Embiruçu",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, de áreas de várzea.",
+    "caracteristicas_gerais": "Madeira muito leve, de cor clara.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Muito fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Micropholis venulosa",
+    "nome_comercial": "Farinha-seca",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, com tronco geralmente reto.",
+    "caracteristicas_gerais": "Madeira de densidade média. Cor do cerne bege-rosado. Textura fina. Grã direita.",
+    "secagem_em_estufa": "Secagem moderadamente lenta, com tendência a empenamentos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Myrcia splendens",
+    "nome_comercial": "Guaiçara",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de pequeno a médio porte.",
+    "caracteristicas_gerais": "Madeira pesada e dura, de cor avermelhada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Vouacapoua americana",
+    "nome_comercial": "Inharé",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor parda-escura, com veios mais escuros. Madeira muito pesada e dura. Alta durabilidade.",
+    "secagem_em_estufa": "Secagem lenta e difícil, com alta tendência a rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar. Requer ferramentas potentes."
+  },
+  {
+    "nome_cientifico": "Calophyllum brasiliense",
+    "nome_comercial": "Jacareúba",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada a parda. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Ocotea minarum",
+    "nome_comercial": "Louro-Goiaba",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Couepia bracteosa",
+    "nome_comercial": "Mucurão",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira pesada, de cor avermelhada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Informação não disponível."
+  },
+  {
+    "nome_cientifico": "Scleronema micranthum",
+    "nome_comercial": "Nome-de-Boi",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira pesada, de cor avermelhada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Informação não disponível."
+  },
+  {
+    "nome_cientifico": "Enterolobium contortisiliquum",
+    "nome_comercial": "Orelha-de-Macaco",
+    "origem": "Mata Atlântica, Cerrado, Caatinga, Pantanal",
+    "arvore": "Árvore de grande porte, com copa ampla e achatada, conhecida como 'orelha-de-negro'.",
+    "caracteristicas_gerais": "Cerne de cor castanho-claro a pardo-avermelhado. Madeira leve a moderadamente densa. Textura grossa.",
+    "secagem_em_estufa": "Secagem rápida, com poucos defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Acabamento de regular a bom."
+  },
+  {
+    "nome_cientifico": "Parinari excelsa",
+    "nome_comercial": "Pajurá",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira muito pesada e dura, com presença de sílica. Cor avermelhada.",
+    "secagem_em_estufa": "Secagem muito difícil.",
+    "trabalhabilidade": "Extremamente difícil de trabalhar devido à dureza e sílica."
+  },
+  {
+    "nome_cientifico": "Pentaclethra macroloba",
+    "nome_comercial": "Pracaxi",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, de áreas alagadas.",
+    "caracteristicas_gerais": "Cerne de cor parda com veios escuros. Densidade média. Odor desagradável.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Hymenolobium excelsum",
+    "nome_comercial": "Rabo-de-Arara",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne amarelado. Madeira pesada.",
+    "secagem_em_estufa": "Secagem difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Lecythis pisonis",
+    "nome_comercial": "Sapucaia",
+    "origem": "Mata Atlântica, Amazônia",
+    "arvore": "Árvore de grande porte, com frutos grandes e lenhosos (urnas).",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Madeira muito pesada e dura.",
+    "secagem_em_estufa": "Secagem muito difícil, com alta tendência a defeitos.",
+    "trabalhabilidade": "Muito difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Erisma uncinatum",
+    "nome_comercial": "Amarelinho",
+    "origem": "Amazônia, Cerrado",
+    "arvore": "Árvore de porte médio a grande, com tronco reto.",
+    "caracteristicas_gerais": "Madeira leve, de cor rosada a avermelhada. Textura grossa. Grã direita a revessa.",
+    "secagem_em_estufa": "Secagem muito rápida, mas com forte tendência a colapso e deformações.",
+    "trabalhabilidade": "Fácil de trabalhar, mas pode apresentar superfície felpuda no lixamento."
+  },
+  {
+    "nome_cientifico": "Pouteria caimito",
+    "nome_comercial": "Abiurana",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio, conhecida por seus frutos doces.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Madeira pesada e dura. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Hymenolobium petraeum Ducke",
+    "nome_comercial": "Angelim-Coco",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com sapopemas na base.",
+    "caracteristicas_gerais": "Cerne castanho-amarelado a castanho-avermelhado. Madeira pesada. Textura grossa. Cheiro desagradável quando úmida.",
+    "secagem_em_estufa": "Secagem difícil, com alta tendência a colapso, empenamento e rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar. Requer ferramentas potentes. Acabamento ruim."
+  },
+  {
+    "nome_cientifico": "Myrciaria plinioides",
+    "nome_comercial": "Araçá-Pira",
+    "origem": "Mata Atlântica (Sul do Brasil)",
+    "arvore": "Árvore de pequeno porte.",
+    "caracteristicas_gerais": "Madeira pesada e dura.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Informação não disponível."
+  },
+  {
+    "nome_cientifico": "Sebastiania brasiliensis",
+    "nome_comercial": "Branquilho",
+    "origem": "Mata Atlântica, Pampa",
+    "arvore": "Árvore de pequeno a médio porte.",
+    "caracteristicas_gerais": "Madeira de cor clara, densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Myrocarpus frondosus",
+    "nome_comercial": "Cabreúva-Parda",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor castanho-avermelhado. Odor agradável (bálsamo). Madeira pesada e dura. Textura fina a média.",
+    "secagem_em_estufa": "Secagem lenta, com tendência a empenamentos.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Nectandra rubra",
+    "nome_comercial": "Canela-Amarela",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio a grande.",
+    "caracteristicas_gerais": "Cerne de cor parda a enegrecida. Densidade média. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem moderadamente fácil, com poucos defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Bom acabamento."
+  },
+  {
+    "nome_cientifico": "Inga cylindrica",
+    "nome_comercial": "Ingá-Bravo",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de porte médio, do gênero dos Ingás.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Hymenaea parvifolia",
+    "nome_comercial": "Jatobá-Mirim",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne avermelhado. Madeira pesada e dura.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Cariniana parvifolia",
+    "nome_comercial": "Jequitibá-Cravinho",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Deguelia paraensis",
+    "nome_comercial": "Maracatiara",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada com veios escuros. Densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Moderadamente fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pouteria glomerata",
+    "nome_comercial": "Pariri",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira de cor clara, densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Brosimum rubescens Taub.",
+    "nome_comercial": "Pina",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor vermelha intensa. Madeira pesada e dura. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Xylopia frutescens",
+    "nome_comercial": "Pindaíba",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de pequeno a médio porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pithecellobium hymenaeifolium",
+    "nome_comercial": "Sarrapia",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio, com vagens em formato de espiral.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor avermelhada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Campomanesia guazumifolia",
+    "nome_comercial": "Sete-Capotes",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de pequeno porte, com casca que se desprende em lâminas.",
+    "caracteristicas_gerais": "Madeira dura e pesada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Brosimum alicastrum",
+    "nome_comercial": "Tamandaré",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira de cor clara, densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Parkia pendula",
+    "nome_comercial": "Tanimbuca",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de grande porte, com copa em formato de guarda-chuva.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Densidade média. Textura grossa.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Hymenolobium excelsum Ducke",
+    "nome_comercial": "Angelim-do-Pará",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne amarelado. Madeira pesada.",
+    "secagem_em_estufa": "Secagem difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Apuleia leiocarpa",
+    "nome_comercial": "Apitá",
+    "origem": "Amazônia, Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio a grande, com tronco geralmente tortuoso. Altura comercial de cerca de 11 m.",
+    "caracteristicas_gerais": "Cerne variando de bege-amarelado a castanho-amarelado. Superfície lustrosa. Densidade média. Grã revessa.",
+    "secagem_em_estufa": "Difícil de secar ao ar. A secagem deve ser lenta e bem controlada para evitar alta incidência de defeitos.",
+    "trabalhabilidade": "Fácil de ser trabalhada, desde que se usem ferramentas apropriadas. Cola bem e proporciona bom acabamento."
+  },
+  {
+    "nome_cientifico": "Protium sagotianum",
+    "nome_comercial": "Amescla",
+    "origem": "Amazônia, Mata Atlântica (Bahia, Espírito Santo)",
+    "arvore": "Grupo de árvores de porte médio, produtoras de resina aromática.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Platymiscium ulei",
+    "nome_comercial": "Bacuripari",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada com veios. Madeira pesada.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Cariniana micrantha",
+    "nome_comercial": "Caimbé",
+    "origem": "Amazônia (Pará, Amazonas)",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Drypetes variabilis",
+    "nome_comercial": "Casca-de-anta",
+    "origem": "Mata Atlântica (Bahia a Santa Catarina), Amazônia",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira dura e pesada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Informação não disponível."
+  },
+  {
+    "nome_cientifico": "Virola surinamensis",
+    "nome_comercial": "Caxinguba",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio, de áreas alagadas.",
+    "caracteristicas_gerais": "Madeira leve, de cor avermelhada clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida, com alto risco de manchamento.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Genipa americana",
+    "nome_comercial": "Jenipapo",
+    "origem": "Amazônia, Mata Atlântica, Cerrado, Caatinga, Pantanal",
+    "arvore": "Árvore de porte médio, com frutos usados para doces e licores.",
+    "caracteristicas_gerais": "Madeira de cor clara, densidade média. Flexível.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar, boa para curvar."
+  },
+  {
+    "nome_cientifico": "Brosimum rubescens",
+    "nome_comercial": "Pau-cobra",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor vermelha intensa. Madeira pesada e dura. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Swartzia tomentosa",
+    "nome_comercial": "Pau-Preto",
+    "origem": "Amazônia, Mata Atlântica (Bahia, Espírito Santo)",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne muito escuro, quase preto. Madeira muito pesada e dura.",
+    "secagem_em_estufa": "Secagem muito difícil.",
+    "trabalhabilidade": "Muito difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Endopleura uxi",
+    "nome_comercial": "Uxi",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, conhecida como uxi-liso.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Madeira muito pesada e dura.",
+    "secagem_em_estufa": "Secagem difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pithecellobium hymenaeifolium",
+    "nome_comercial": "Apuruí",
+    "origem": "Amazônia, Cerrado",
+    "arvore": "Árvore de porte médio, com vagens em formato de espiral.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor avermelhada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Calophyllum brasiliense",
+    "nome_comercial": "Guanandi",
+    "origem": "Mata Atlântica, Amazônia, Cerrado, Pantanal",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada a parda. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Protium almecega",
+    "nome_comercial": "Almécega",
+    "origem": "Amazônia",
+    "arvore": "Grupo de árvores de porte médio, produtoras de resina aromática.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Sickingia spp.",
+    "nome_comercial": "Babosa",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Triplaris spp.",
+    "nome_comercial": "Cabeça-de-negro",
+    "origem": "Amazônia, Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio, com tronco oco habitado por formigas.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Spondias tuberosa",
+    "nome_comercial": "Chuta",
+    "origem": "Caatinga, Cerrado",
+    "arvore": "Árvore de pequeno porte, tortuosa, adaptada a climas secos (Umbuzeiro).",
+    "caracteristicas_gerais": "Madeira leve e macia.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Goupia glabra",
+    "nome_comercial": "Cupiúba",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Odor desagradável. Madeira pesada e dura. Textura grossa.",
+    "secagem_em_estufa": "Secagem moderadamente difícil, com tendência a empenamentos.",
+    "trabalhabilidade": "Difícil de trabalhar. Acabamento ruim."
+  },
+  {
+    "nome_cientifico": "Dicorynia guianensis",
+    "nome_comercial": "Angelim-Rajado",
+    "origem": "Amazônia (principalmente Pará, Amapá)",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor amarelada com veios escuros. Madeira pesada.",
+    "secagem_em_estufa": "Secagem difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Gustavia augusta",
+    "nome_comercial": "Geniparana",
+    "origem": "Amazônia",
+    "arvore": "Árvore de pequeno a médio porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Guaiacum officinale",
+    "nome_comercial": "Guaiac",
+    "origem": "Amazônia (áreas costeiras)",
+    "arvore": "Árvore de pequeno porte e crescimento lento.",
+    "caracteristicas_gerais": "Cerne de cor escura, esverdeada. Uma das madeiras mais pesadas e duras do mundo. Autolubrificante devido à resina.",
+    "secagem_em_estufa": "Extremamente difícil de secar.",
+    "trabalhabilidade": "Extremamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Machaerium ferrugineum",
+    "nome_comercial": "Marapanã",
+    "origem": "Amazônia, Cerrado",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada com veios. Madeira pesada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Minquartia guianensis",
+    "nome_comercial": "Acariquara",
+    "origem": "Amazônia, Pará, Amapá, Roraima.",
+    "arvore": "Árvore de grande porte, com tronco canelado.",
+    "caracteristicas_gerais": "Cerne de cor parda-amarelada. Madeira muito pesada, dura e de alta durabilidade.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Brosimum paraense",
+    "nome_comercial": "Amapá",
+    "origem": "Floresta Amazônica, especialmente Pará e Amapá.",
+    "arvore": "Árvore de grande porte, que exsuda látex branco.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Madeira pesada e dura.",
+    "secagem_em_estufa": "Secagem difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Licania paraensis",
+    "nome_comercial": "Atapana",
+    "origem": "Amazônia (Pará, Amapá, Amazonas).",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira muito pesada e dura, com sílica.",
+    "secagem_em_estufa": "Secagem muito difícil.",
+    "trabalhabilidade": "Extremamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Xylopia amazonica",
+    "nome_comercial": "Bagacinho",
+    "origem": "Amazônia, em florestas de terra firme.",
+    "arvore": "Árvore de pequeno a médio porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Mauritia flexuosa",
+    "nome_comercial": "Buriti",
+    "origem": "Amazônia, Cerrado e Mata Atlântica (áreas úmidas).",
+    "arvore": "Palmeira de grande porte, típica de áreas alagadas (veredas).",
+    "caracteristicas_gerais": "Material lenhoso de palmeira, não é madeira verdadeira. Composto por fibras duras em uma matriz macia.",
+    "secagem_em_estufa": "Secagem moderada.",
+    "trabalhabilidade": "Usado principalmente em artesanato."
+  },
+  {
+    "nome_cientifico": "Aspidosperma nitidum",
+    "nome_comercial": "Carapanaúba",
+    "origem": "Amazônia (Pará, Amazonas, Acre).",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor amarela. Madeira pesada. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Swartzia flaemingii",
+    "nome_comercial": "Ferro-roxo",
+    "origem": "Amazônia (Pará, Amazonas, Rondônia).",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor roxa escura. Madeira muito pesada e dura.",
+    "secagem_em_estufa": "Secagem muito difícil.",
+    "trabalhabilidade": "Muito difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Qualea grandiflora",
+    "nome_comercial": "Goianinha",
+    "origem": "Cerrado, Mata Atlântica.",
+    "arvore": "Árvore de porte médio, com casca suberosa.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Eschweilera odora",
+    "nome_comercial": "Guaratinga",
+    "origem": "Amazônia (Pará, Amazonas).",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira pesada, de cor avermelhada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Informação não disponível."
+  },
+  {
+    "nome_cientifico": "Platymiscium ulei",
+    "nome_comercial": "Macacaúba",
+    "origem": "Amazônia (Pará, Acre).",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada com veios. Madeira pesada.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Machaerium acutifolium",
+    "nome_comercial": "Saburana",
+    "origem": "Amazônia (Pará, Rondônia).",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada com veios. Madeira pesada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Couma utilis",
+    "nome_comercial": "Sorveira",
+    "origem": "Amazônia (Pará, Amazonas).",
+    "arvore": "Árvore de grande porte, que produz látex comestível.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Terminalia amazonia",
+    "nome_comercial": "Tajubá",
+    "origem": "Amazônia, Mata Atlântica.",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Madeira pesada e dura.",
+    "secagem_em_estufa": "Secagem moderadamente difícil.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Sclerolobium paniculatum",
+    "nome_comercial": "Tachi",
+    "origem": "Amazônia, Cerrado.",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Astrocaryum aculeatum",
+    "nome_comercial": "Tucumã",
+    "origem": "Amazônia, Acre, Amazonas.",
+    "arvore": "Palmeira de porte médio, com tronco coberto de espinhos.",
+    "caracteristicas_gerais": "Material lenhoso de palmeira, com fibras escuras e densas em uma matriz mais clara.",
+    "secagem_em_estufa": "Secagem moderada.",
+    "trabalhabilidade": "Difícil de trabalhar, usado para artesanato e cabos."
+  },
+  {
+    "nome_cientifico": "Virola surinamensis",
+    "nome_comercial": "Virola",
+    "origem": "Amazônia, Mata Atlântica.",
+    "arvore": "Árvore de porte médio, de áreas alagadas.",
+    "caracteristicas_gerais": "Madeira leve, de cor avermelhada clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida, com alto risco de manchamento.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Tetragastris altissima",
+    "nome_comercial": "Abelha",
+    "origem": "Amazônia, Mata Atlântica.",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor avermelhada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Hirtella racemosa",
+    "nome_comercial": "Curumixá",
+    "origem": "Amazônia, Cerrado, Mata Atlântica.",
+    "arvore": "Arbusto ou árvore de pequeno porte.",
+    "caracteristicas_gerais": "Madeira dura e pesada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Informação não disponível."
+  },
+  {
+    "nome_cientifico": "Couratari multiflora",
+    "nome_comercial": "Mumbuca",
+    "origem": "Amazônia (Pará, Amapá, Maranhão).",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Dialium guianense",
+    "nome_comercial": "Cupúba",
+    "origem": "Amazônia (Pará, Amazonas).",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Madeira muito pesada e dura.",
+    "secagem_em_estufa": "Secagem difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Anadenanthera macrocarpa",
+    "nome_comercial": "Angico-Vermelho",
+    "origem": "Mata Atlântica, Cerrado, Caatinga",
+    "arvore": "Árvore de porte médio, com casca escura e rugosa.",
+    "caracteristicas_gerais": "Cerne de cor castanho-avermelhado-escuro. Madeira pesada e dura. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem lenta e difícil, com tendência a rachaduras.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Cupania vernalis",
+    "nome_comercial": "Camboatá",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira de cor clara, densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Roupala montana",
+    "nome_comercial": "Carvalho-do-Brasil",
+    "origem": "Amazônia, Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Cerne de cor parda-avermelhada, com raios largos que formam figura vistosa. Densidade média.",
+    "secagem_em_estufa": "Secagem moderadamente difícil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Parkia multijuga",
+    "nome_comercial": "Faveiro-de-Bolacha",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira leve, de cor clara. Baixa durabilidade.",
+    "secagem_em_estufa": "Secagem rápida.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Inga vera subsp. affinis",
+    "nome_comercial": "Ingá-Preto",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio, do gênero dos Ingás.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor clara.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Platycyamus regnellii",
+    "nome_comercial": "Pau-Pereira",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira de cor clara, densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Paratecoma peroba",
+    "nome_comercial": "Peroba-do-Norte",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, com tronco reto.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Densidade média. Textura média. Grã irregular.",
+    "secagem_em_estufa": "Secagem moderadamente fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Terminalia amazonia",
+    "nome_comercial": "Amarelo",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor amarelada. Madeira pesada e dura.",
+    "secagem_em_estufa": "Secagem moderadamente difícil.",
+    "trabalhabilidade": "Moderadamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Dipteryx polyphylla",
+    "nome_comercial": "Cumaru-Rosa",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte, similar ao Cumaru.",
+    "caracteristicas_gerais": "Cerne de cor castanho-avermelhado. Madeira pesada e dura.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pterodon emarginatus",
+    "nome_comercial": "Faveira-Amarela",
+    "origem": "Cerrado",
+    "arvore": "Árvore de porte médio, com casca grossa.",
+    "caracteristicas_gerais": "Cerne de cor clara. Madeira de densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pouteria bullata",
+    "nome_comercial": "Guapeva",
+    "origem": "Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira dura e pesada, de cor avermelhada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Hymenaea stigonocarpa",
+    "nome_comercial": "Jatobá-Rajado",
+    "origem": "Cerrado",
+    "arvore": "Árvore de porte médio, tortuosa, típica do Cerrado.",
+    "caracteristicas_gerais": "Cerne avermelhado. Madeira pesada e dura.",
+    "secagem_em_estufa": "Secagem lenta.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Ocotea guianensis",
+    "nome_comercial": "Louro-Branco",
+    "origem": "Amazônia, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira de cor clara, densidade média.",
+    "secagem_em_estufa": "Secagem fácil.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Lafoensia pacari",
+    "nome_comercial": "Mirindiba-Rosa",
+    "origem": "Cerrado, Mata Atlântica",
+    "arvore": "Árvore de porte médio.",
+    "caracteristicas_gerais": "Madeira de densidade média, cor rosada.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Brosimum rubescens",
+    "nome_comercial": "Muirajuba",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor vermelha intensa. Madeira pesada e dura. Textura fina.",
+    "secagem_em_estufa": "Secagem lenta e difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Lecythis chartacea",
+    "nome_comercial": "Sapucaia-Mirim",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Madeira muito pesada e dura.",
+    "secagem_em_estufa": "Secagem difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Pterodon polygalaeflorus",
+    "nome_comercial": "Sucupira-Branca-do-Cerrado",
+    "origem": "Cerrado",
+    "arvore": "Árvore de porte médio, com casca grossa.",
+    "caracteristicas_gerais": "Cerne de cor clara. Madeira de densidade média.",
+    "secagem_em_estufa": "Informação não disponível.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Dialium guianense",
+    "nome_comercial": "Tamarindo",
+    "origem": "Amazônia",
+    "arvore": "Árvore de grande porte.",
+    "caracteristicas_gerais": "Cerne de cor avermelhada. Madeira muito pesada e dura.",
+    "secagem_em_estufa": "Secagem difícil.",
+    "trabalhabilidade": "Difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Enterolobium contortisiliquum",
+    "nome_comercial": "Timbaúva",
+    "origem": "Mata Atlântica, Cerrado",
+    "arvore": "Árvore de grande porte, com copa ampla e achatada, conhecida como 'orelha-de-negro'.",
+    "caracteristicas_gerais": "Cerne de cor castanho-claro a pardo-avermelhado. Madeira leve a moderadamente densa. Textura grossa.",
+    "secagem_em_estufa": "Secagem rápida, com poucos defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar. Acabamento de regular a bom."
+  },
+  {
+    "nome_cientifico": "Ceiba pentandra",
+    "nome_comercial": "Sumaúma",
+    "origem": "Amazônia",
+    "arvore": "Árvore de porte monumental, com tronco espesso e sapopemas gigantescas.",
+    "caracteristicas_gerais": "Madeira extremamente leve e macia. Cor clara. Baixa resistência.",
+    "secagem_em_estufa": "Secagem muito rápida.",
+    "trabalhabilidade": "Muito fácil de trabalhar, usada para compensados e caixotaria."
+  },
+  {
+    "nome_cientifico": "Euterpe oleracea",
+    "nome_comercial": "Açaí",
+    "origem": "Amazônia",
+    "arvore": "Palmeira multicaule (forma touceiras), famosa pelo seu fruto.",
+    "caracteristicas_gerais": "Material lenhoso de palmeira, não é madeira verdadeira. Usado principalmente em artesanato.",
+    "secagem_em_estufa": "Secagem moderada.",
+    "trabalhabilidade": "Difícil de trabalhar para fins de serraria."
+  },
+  {
+    "nome_cientifico": "Euterpe catinga",
+    "nome_comercial": "Açaí-do-brejo",
+    "origem": "Amazônia (principalmente várzeas)",
+    "arvore": "Palmeira similar ao açaí, de áreas alagadas.",
+    "caracteristicas_gerais": "Material lenhoso de palmeira.",
+    "secagem_em_estufa": "Secagem moderada.",
+    "trabalhabilidade": "Difícil de trabalhar para fins de serraria."
+  },
+  {
+    "nome_cientifico": "Attalea speciosa",
+    "nome_comercial": "Babaçu",
+    "origem": "Regiões Norte, Nordeste e Centro-Oeste",
+    "arvore": "Palmeira de grande porte, dominante em vastas áreas (babaçuais).",
+    "caracteristicas_gerais": "Material lenhoso de palmeira, muito duro e denso.",
+    "secagem_em_estufa": "Secagem difícil.",
+    "trabalhabilidade": "Extremamente difícil de trabalhar."
+  },
+  {
+    "nome_cientifico": "Peltophorum vogelianum",
+    "nome_comercial": "Canafístula-roxa",
+    "origem": "Cerrado, Mata Atlântica",
+    "arvore": "Árvore de grande porte, com floração amarela exuberante.",
+    "caracteristicas_gerais": "Cerne de cor clara, levemente rosado. Densidade média. Textura média.",
+    "secagem_em_estufa": "Secagem fácil, sem grandes defeitos.",
+    "trabalhabilidade": "Fácil de trabalhar."
+  }
+]

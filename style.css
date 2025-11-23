@@ -1,0 +1,254 @@
+/* Importa uma fonte do Google Fonts para um visual mais moderno */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Slabo+27px&display=swap');
+
+/* --- Reset e Configurações Globais --- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Garante que padding e borda não aumentem o tamanho do elemento */
+}
+
+body {
+    font-family: 'Roboto', sans-serif; /* Fonte principal para textos */
+    color: #333333; /* Cinza escuro para o texto, melhor que preto puro */
+    background-image: url('https://www.greenpeace.org/static/planet4-brasil-stateless/2018/07/GP0STPOE5.jpg'); /* Papel de parede de floresta */
+    background-color: #f0e8d9; /* Cor de fundo caso a imagem principal não carregue */
+    background-size: cover; /* Faz a imagem cobrir todo o fundo */
+    background-position: center; /* Centraliza a imagem */
+    background-attachment: fixed; /* Mantém a imagem fixa durante a rolagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+
+    /* Garante que o footer fique no final da página */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* --- Cabeçalho --- */
+header {
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidade */
+    position: sticky; /* Mantém o cabeçalho fixo no topo */
+    top: 0;
+    z-index: 1000;
+
+    /* Mosaico de imagens de fundo */
+    background-image: 
+        url('https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/mata-atlantica/lista-de-ucs/apa-da-regiao-serrana-de-petropolis/apa-da-regiao-serrana-de-petropolis/@@govbr.institucional.banner/ff6bf71d-1be8-4a0d-ad24-a1cb45b9de96/@@images/90ea5ad7-61e7-4d5b-a300-35543e8cb604.jpeg'),
+        url('https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/pampa/lista-de-ucs/apa-do-ibirapuita/apa-do-ibirapuita/@@govbr.institucional.tile.nitf/cbcbc6b4-165b-498f-91d0-aa83847df288/@@images/dac6c37a-ceb6-406a-a5b9-40b0e2e62aea.jpeg'),
+        url('https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/amazonia/lista-de-ucs/flona-de-itaituba-2/flona-de-itaituba-2/@@govbr.institucional.banner/ff6bf71d-1be8-4a0d-ad24-a1cb45b9de96/@@images/00d041ad-552e-45ad-84be-ddc0a1311ff7.jpeg'),
+        url('https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/cerrado/lista-de-ucs/esec-de-pirapitinga/esec-de-pirapitinga/@@govbr.institucional.banner/ff6bf71d-1be8-4a0d-ad24-a1cb45b9de96/@@images/13f71ef3-21a9-4b9f-ad73-9cd2ca989749.png'),
+        url('https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/cerrado/cerrado-1/@@govbr.institucional.banner/d758c591-b452-4faa-bad7-03a24cfc1b70/@@images/f3de5d9c-cb7d-4355-bb11-35419965d55e.jpeg'),
+        url('https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/cerrado/carstedelagoasanta.jpg/@@images/05cc3791-7890-4ed7-98b3-3f16f13ef4be.jpeg'),
+        url('https://www.gov.br/icmbio/pt-br/assuntos/biodiversidade/unidade-de-conservacao/unidades-de-biomas/caatinga/flonadesobral.jpg');
+    
+    /* Ajuste para 7 imagens */
+    background-position: 0% 0, 16.66% 0, 33.33% 0, 50% 0, 66.66% 0, 83.33% 0, 100% 0;
+    background-size: 14.28% 100%;
+    background-repeat: no-repeat;
+
+    /* O conteúdo de texto dentro do header precisa de um fundo para ser legível */
+    color: #2aaf1e; /* Verde escuro para o texto do cabeçalho */
+    background-color: rgba(245, 245, 220, 0.8); /* Fundo Bege/Creme com transparência */
+    border-bottom: 3px solid #2d572c; /* Borda inferior para separar do conteúdo */
+
+}
+
+header h1 {
+    font-family: 'Slabo 27px', serif; /* Fonte serifada para o título principal */
+    font-size: 6cap; /* Tamanho maior para o título */
+    margin-bottom: 15px;
+}
+
+header div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /* Espaço entre o campo de busca e os botões */
+}
+
+header input[type="text"] {
+    font-family: 'Slabo 27px', serif; /* Mesma fonte do título */
+    font-size: 2.5rem; /* Tamanho da fonte igual ao do título */
+    color: #2d572c; /* Mesma cor dos títulos dos cards para consistência */
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    width: 500px; /* Aumentado para acomodar a nova fonte */
+    text-align: center; /* Centraliza o texto digitado */
+}
+
+header button {
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+#botao-busca {
+    background-color: #d97904; /* Laranja/Âmbar para destaque */
+    color: white;
+}
+
+#botao-busca:hover {
+    background-color: #b56503;
+    transform: scale(1.05);
+}
+
+#botao-limpar {
+    background-color: #18a73c; /* Cinza para ação secundária */
+    color: white;
+}
+
+#botao-limpar:hover {
+    background-color: #6a6a6a;
+    transform: scale(1.05);
+}
+
+/* --- Conteúdo Principal e Cards --- */
+main {
+    padding: 20px;
+    flex-grow: 1; /* Faz o conteúdo principal crescer e empurrar o rodapé para baixo */
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px; /* Espaçamento entre os cards */
+}
+
+.card {
+    background-color: #f5f5dc; /* Bege/Creme */
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px); /* Efeito de flutuar ao passar o mouse */
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+.card h2 {
+    color: #2d572c; /* Verde floresta */
+    font-family: 'Slabo 27px', serif;
+    margin-bottom: 10px;
+}
+
+.card p {
+    margin-bottom: 8px;
+    line-height: 1.5; /* Melhora a legibilidade */
+}
+
+.card .info-button {
+    background-color: #d97904; /* Laranja/Âmbar */
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: auto; /* Empurra o botão para o final do card */
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.card .info-button:hover {
+    background-color: #b56503;
+}
+
+/* --- Rodapé --- */
+.footer {
+    background-color: #3d2c1d; /* Mesmo marrom escuro do cabeçalho */
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.footer-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; /* Espaçamento entre os links */
+}
+
+.footer-links a {
+    color: #f5f5dc; /* Bege claro */
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Espaço entre o ícone e o texto */
+    transition: color 0.3s;
+}
+
+.footer-links a:hover {
+    color: #d97904; /* Laranja/Âmbar ao passar o mouse */
+}
+
+.footer-links img {
+    vertical-align: middle; /* Alinha a imagem verticalmente */
+}
+
+/* --- Media Queries para Responsividade (Smartphones) --- */
+
+/* Para telas menores, como tablets em modo retrato e smartphones em paisagem (até 768px) */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 4cap; /* Reduz um pouco o título principal */
+        margin-bottom: 20px;
+    }
+
+    header div {
+        flex-direction: column; /* Empilha a busca e os botões */
+        gap: 15px;
+    }
+
+    header input[type="text"] {
+        width: 80%; /* Input ocupa mais espaço, mas não tudo */
+        font-size: 1.8rem; /* Fonte do input menor */
+    }
+
+    .card {
+        width: 45%; /* Permite dois cards por linha */
+    }
+
+    .footer-links {
+        flex-direction: column; /* Empilha os links do rodapé */
+        gap: 15px;
+    }
+}
+
+/* Para a maioria dos smartphones em modo retrato (até 480px) */
+@media (max-width: 480px) {
+    body {
+        /* Remove a imagem de fundo pesada para economizar dados e melhorar a performance em dispositivos móveis */
+        background-image: none;
+        background-color: #f0e8d9;
+    }
+
+    header {
+        /* Remove o mosaico de imagens que não é eficaz em telas pequenas */
+        background-image: none;
+        background-color: rgba(245, 245, 220, 0.95); /* Aumenta a opacidade para melhor legibilidade */
+    }
+
+    header h1 {
+        font-size: 3.5cap; /* Título ainda menor */
+    }
+
+    header input[type="text"] {
+        width: 95%; /* Input quase total */
+    }
+
+    .card {
+        width: 90%; /* Um card por linha, ocupando 90% da tela */
+    }
+}
